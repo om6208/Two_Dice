@@ -2,7 +2,7 @@
 This is code repository of Two Dice game functionality achieved using front-end technologies. The logic is simple with the less lines of code possible.
 It includes following possible outcomes from the game:
 
-1.When their is Draw between two player's:-
+1.When their is a Draw between two players:-
 ![image](https://github.com/om6208/Two_Dice/assets/116423195/f029a2f1-8e70-4e50-80de-5a63027bcdcd)
 
 2.When the Player-1 wins and Player-2 losses:-
